@@ -3,4 +3,13 @@ p{
     font-weight: 400;
     font-size: medium;
     color:deeppink;
+  
+}
+
+.padding{
+    padding: 20px;
+    
+}
+h1{
+    font-weight: 900;
 }
